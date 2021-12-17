@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<note xmlns="http://www.w3.com" xmlns:xsi="http://www.w3.org/2001/XMLSchemainstance" xsi:schemaLocation="http://www.w3schools.com note.xsd">
+<note xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com note.xsd">
     <title>Empire Burlesque</title>
     <artist>Bob Dylan</artist>
     <country>USA</country>
