@@ -10,8 +10,8 @@
                             <xs:element name="ARTIST" type="xs:string" />
                             <xs:element name="COUNTRY" type="xs:string" />
                             <xs:element name="COMPANY" type="xs:string" />
-                            <xs:element name="PRICE" type="xs:string" />
-                            <xs:element name="YEAR" type="xs:string" />
+                            <xs:element name="PRICE" type="xs:decimal" />
+                            <xs:element name="YEAR" type="xs:integer" />
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
